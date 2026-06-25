@@ -13,7 +13,7 @@ El proyecto permite identificar patrones de fuerza bruta, ataques distribuidos, 
 
 ## Objetivo del proyecto
 
-Este proyecto fue desarrollado como práctica personal de programación en Python y aprendizaje de conceptos básicos de un SIEM. Su objetivo es fortalecer habilidades relacionadas con:
+Este proyecto fue desarrollado como práctica personal de programación en Python, aprendizaje de conceptos básicos de un SIEM y familiarización con Splunk como plataforma de análisis y visualización de eventos de seguridad. Su objetivo es fortalecer habilidades relacionadas con:
 
 - Procesamiento y análisis de logs.
 - Detección de eventos de seguridad.
