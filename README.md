@@ -1,5 +1,9 @@
 # Mini SIEM con integración a Splunk
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Splunk](https://img.shields.io/badge/Splunk-Enterprise-green)
+![Estado](https://img.shields.io/badge/Estado-Funcional-brightgreen)
+
 ## Descripción
 
 Mini SIEM desarrollado en Python para la detección y análisis de eventos de autenticación sospechosos a partir de registros de logs.
