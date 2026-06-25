@@ -1,0 +1,34 @@
+2026-04-24 10:29:32 | LOGIN | admin | 45.32.21.90 | FAILED | invalid_password
+2026-04-24 10:29:40 | LOGIN | admin | 45.32.21.90 | FAILED | invalid_password
+2026-04-24 10:29:59 | LOGIN | admin | 45.32.21.90 | FAILED | invalid_password
+2026-04-24 10:30:06 | LOGIN | admin | 45.32.21.90 | FAILED | invalid_password
+2026-04-24 10:30:15 | LOGIN | admin | 45.32.21.90 | SUCCESS | login_ok
+2026-04-25 10:40:02 | LOGIN | user4 | 42.38.21.90 | SUCCESS | login_ok
+2026-04-25 11:02:10 | LOGIN | user2 | 41.35.21.90 | FAILED | user_not_found
+2026-04-25 11:04:10 | LOGIN | user2 | 41.35.21.90 | SUCCESS | login_ok
+
+
+2026-04-26 08:03:00 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+2026-04-26 08:04:02 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+2026-04-26 08:04:30 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+2026-04-26 08:05:00 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+2026-04-26 08:05:15 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+2026-04-26 08:06:10 | LOGIN | user4 | 42.38.21.90 | FAILED | invalid_password
+
+2026-04-26 06:21:04| LOGIN | user1 | 45.32.21.90 | FAILED | invalid_password
+2026-04-26 06:21:10| LOGIN | user2 | 45.32.21.90 | FAILED | invalid_password
+2026-04-26 06:21:40| LOGIN | user3 | 45.32.21.90 | FAILED | invalid_password
+2026-04-26 06:22:01| LOGIN | user4 | 45.32.21.90 | FAILED | invalid_password
+
+2026-04-30 09:21:02| LOGIN | krycek | 45.32.21.92 | FAILED | user_not_found
+2026-04-30 09:21:02| LOGIN | krycek | 45.32.21.92 | FAILED | invalid_password
+2026-04-30 09:21:03| LOGIN | krycek | 45.32.21.92 | FAILED | invalid_password
+2026-04-30 09:21:04| LOGIN | krycek | 45.32.21.92 | FAILED | invalid_password
+2026-04-30 09:21:04| LOGIN | krycek | 45.32.21.92 | FAILED | invalid_password
+
+2026-05-02 02:03:03 | LOGIN | user6 | 42.38.21.94 | FAILED | invalid_password
+2026-05-02 02:03:03 | LOGIN | user6 | 42.38.21.94 | FAILED | invalid_password
+2026-05-02 02:03:04 | LOGIN | user6 | 42.38.21.94 | FAILED | invalid_password
+2026-05-02 02:03:05 | LOGIN | user6 | 42.38.21.94 | FAILED | invalid_password
+2026-05-02 02:03:06 | LOGIN | user6 | 42.38.21.94 | FAILED | invalid_password
+
